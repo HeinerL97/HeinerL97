@@ -1,56 +1,53 @@
-#  👋 ¡Hola! Soy Heiner Leonardo Urrego
+#  👋  Hi there! I'm Heiner Leonardo Urrego
 
-🔍 **QA Analyst | Pruebas Funcionales y Automatización | Mejora Continua**
+**QA Analyst | Functional Testing & Test Automation | Continuous Improvement Advocate**
 
-Soy una profesional con experiencia en pruebas de software, automatización y validación de procesos ETL. Me especializo en asegurar la calidad de soluciones tecnológicas robustas, trabajando en colaboración con equipos multidisciplinarios bajo marcos ágiles como Scrum y Kanban.
+I'm a quality-focused professional with experience in software testing, test automation, and ETL process validation. I specialize in ensuring the reliability and efficiency of technological solutions, collaborating with cross-functional teams in agile environments like Scrum and Kanban.
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
-- ✅ **Pruebas Funcionales, de Regresión, de Integración y de Aceptación**
-- 🤖 **Automatización de Pruebas** (UI / API)
-- 🗃️ **Validación de procesos ETL y estructuras de archivos**
+- ✅ **Functional, Regression, Integration, and Acceptance Testing**
+- 🤖 **Test Automation** (UI / API)
+- 🗃️ **ETL Process and File Structure Validation**
 - ☁️ **Microsoft Azure** (DevOps, Pipelines, Boards)
-- 🔄 **Integración continua / CI-CD**: Azure DevOps, Jenkins
-- 🧪 **Herramientas de pruebas**:
+- 🔄 **CI/CD Tools**: Azure DevOps
+- 🧪 **Testing Tools**:
   - Jira
   - TestLink
   - Mantis
   - Octave
   - Postman
-- 📚 **Documentación y colaboración**:
+- 📚 **Documentation & Collaboration**:
   - Confluence
   - SharePoint
-- 🔐 **Control de versiones y gestión de código**:
+- 🔐 **Version Control**:
   - Git
 
-## 📜 Certificaciones
+## 📜 Certifications
 
 - 🧾 **Scrum Master Certified**
 - 🧾 **Kanban Fundamentals Certified**
 
-## 💼 Experiencia
+## 💼 Experience
 
-- Diseño y ejecución de casos de prueba tanto manuales como automatizados.
-- Validación de estructuras de archivos, logs y bases de datos en flujos críticos.
-- Seguimiento de bugs y gestión de historias de usuario en Jira y Azure Boards.
-- Documentación técnica y funcional clara y estructurada en Confluence y SharePoint.
-- Participación activa en procesos de despliegue y validación en entornos Azure.
-- Facilitación de ceremonias Scrum y mejora de flujos de trabajo con Kanban.
+- Design and execution of manual and automated test cases.
+- Validation of file structures, logs, and databases in critical workflows.
+- Defect tracking and user story management using Jira and Azure Boards.
+- Clear and structured documentation in Confluence and SharePoint.
+- Active participation in deployment and validation processes within Azure environments.
+- Facilitation of Scrum ceremonies and process improvement using Kanban.
 
-## 🌱 Actualmente
+## 🌱 Currently Exploring
 
-Aprendiendo más sobre:
-- Automatización de pruebas con Python y Selenium
-- Arquitectura de pruebas en la nube (Azure)
-- DevOps y QA colaborativo
+- Advanced automation with Python and Selenium
+- Cloud-based test architecture (Azure)
+- DevOps practices integrated with QA processes
 
 ---
 
-### 📬 ¿Conectamos?
-
+### 📬 Let’s Connect!
 - 💼 [LinkedIn](www.linkedin.com/in/heiner-urrego-gonzalez)
 - 📫 [Correo](h.leonardo321@gmail.com)
 
 ---
-
-"Prevenir errores es más valioso que detectarlos tarde. La calidad empieza desde el primer clic." 🧩
+"Preventing bugs is more valuable than finding them late. Quality starts from the very first click."🧩
