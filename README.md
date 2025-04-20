@@ -47,7 +47,7 @@ I'm a quality-focused professional with experience in software testing, test aut
 
 ### 📬 Let’s Connect!
 - 💼 [LinkedIn](www.linkedin.com/in/heiner-urrego-gonzalez)
-- 📫 [Correo](h.leonardo321@gmail.com)
+- 📫 [Email](h.leonardo321@gmail.com)
 
 ---
 "Preventing bugs is more valuable than finding them late. Quality starts from the very first click."🧩
