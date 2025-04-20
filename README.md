@@ -53,4 +53,4 @@ Aprendiendo más sobre:
 
 ---
 
-_"Prevenir errores es más valioso que detectarlos tarde. La calidad empieza desde el primer clic." _ 🧩
+"Prevenir errores es más valioso que detectarlos tarde. La calidad empieza desde el primer clic." 🧩
